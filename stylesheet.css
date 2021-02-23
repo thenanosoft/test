@@ -1,6 +1,8 @@
 body {
-    background-color: blue;
+    background-color: #000000;
     text-align: center;
+    color: white;
+
 }
 p {
     color: red;
